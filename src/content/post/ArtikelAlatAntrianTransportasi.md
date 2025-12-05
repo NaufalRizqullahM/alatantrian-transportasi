@@ -43,8 +43,8 @@ Dalam logistik, kecepatan proses sangat menentukan efisiensi biaya.
 
 Integrasi sistem antrian memungkinkan:
 
-- Penjadwalan truk secara teratur  
-- Waktu rata-rata menunggu berkurang signifikan  
+- Penjadwalan truk secara teratur
+- Waktu rata-rata menunggu berkurang signifikan
 - Operator gudang dapat melihat antrean _real-time_ untuk mempersiapkan loading/unloading
 
 Tanpa sistem digital, truk sering menumpuk tidak beraturan, menyebabkan rantai proses melambat.
@@ -77,11 +77,11 @@ Di **AlatAntrian Transportasi**, kami menyediakan sistem yang dirancang khusus u
 
 Fitur unggulan kami meliputi:
 
-- Manajemen antrian penumpang & kendaraan secara bersamaan  
-- Integrasi gate, LED display, monitor informasi, dan loket  
-- Dashboard operasional _real-time_ untuk terminal, pelabuhan, atau depo  
-- Sistem pemanggilan suara multi-bahasa  
-- Statistik harian untuk menentukan jam padat dan kebutuhan SDM  
+- Manajemen antrian penumpang & kendaraan secara bersamaan
+- Integrasi gate, LED display, monitor informasi, dan loket
+- Dashboard operasional _real-time_ untuk terminal, pelabuhan, atau depo
+- Sistem pemanggilan suara multi-bahasa
+- Statistik harian untuk menentukan jam padat dan kebutuhan SDM
 
 Dengan sistem yang terstandarisasi, instansi dapat meningkatkan kelancaran layanan hingga 40–60% dalam 1–2 bulan penggunaan.
 

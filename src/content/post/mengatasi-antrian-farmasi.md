@@ -14,9 +14,9 @@ metadata:
 ---
 
 Pernahkah Anda melihat antrean truk mengular hingga keluar area pelabuhan atau terminal?  
-Di sektor transportasi & logistik, antrian kendaraan adalah salah satu penyebab terbesar keterlambatan operasional.  
+Di sektor transportasi & logistik, antrian kendaraan adalah salah satu penyebab terbesar keterlambatan operasional.
 
-Truk yang menunggu terlalu lama menyebabkan *delay* pada bongkar-muat, gangguan jadwal keberangkatan, hingga kerugian biaya bagi operator maupun mitra logistik.
+Truk yang menunggu terlalu lama menyebabkan _delay_ pada bongkar-muat, gangguan jadwal keberangkatan, hingga kerugian biaya bagi operator maupun mitra logistik.
 
 ## Akar Masalah Antrian Kendaraan
 
@@ -36,6 +36,7 @@ Berdasarkan studi lapangan di beberapa terminal dan depo logistik mitra kami, te
 ### 1. Integrasi Gate Check-In Digital
 
 Setiap truk mendapatkan nomor antrian digital melalui:
+
 - kiosk touchscreen,
 - QR-based check-in,
 - atau integrasi dengan sistem booking truk.
@@ -45,23 +46,25 @@ Petugas tidak perlu memproses data secara manual karena semua informasi langsung
 ### 2. Pemisahan Jalur Berdasarkan Layanan
 
 Dengan sistem antrian digital, kendaraan otomatis diarahkan ke jalur:
-- **Bongkar**,  
-- **Muat**,  
-- **Timbang**,  
-- **Container Handling**,  
-- **Pengambilan Dokumen**.  
+
+- **Bongkar**,
+- **Muat**,
+- **Timbang**,
+- **Container Handling**,
+- **Pengambilan Dokumen**.
 
 Pengaturan otomatis ini mengurangi campur aduk alur kendaraan yang menjadi akar kemacetan.
 
 ### 3. Display Antrian untuk Supir Truk
 
 Monitor LED di area parkir dapat menampilkan:
-- Status antrean: **Menunggu**, **Diproses**, **Siap Masuk Gate**  
-- Perkiraan waktu tunggu  
-- Jalur atau gudang tujuan truk  
+
+- Status antrean: **Menunggu**, **Diproses**, **Siap Masuk Gate**
+- Perkiraan waktu tunggu
+- Jalur atau gudang tujuan truk
 
 Supir tidak perlu menanyakan ke petugas berkali-kali.  
-Ini memberikan *transparency* dan memperlancar pergerakan kendaraan.
+Ini memberikan _transparency_ dan memperlancar pergerakan kendaraan.
 
 ## Dampak pada Efisiensi Operasional
 
@@ -73,4 +76,4 @@ Implementasi sistem antrian kendaraan terbukti mampu:
 - Menjaga komunikasi lebih transparan antara operator dan supir
 - Mengurangi keluhan supir dan mitra logistik
 
-Digitalisasi antrian bukan hanya mengatur kendaraan, tetapi mengatur *flow* seluruh rantai operasional di sektor transportasi & logistik.
+Digitalisasi antrian bukan hanya mengatur kendaraan, tetapi mengatur _flow_ seluruh rantai operasional di sektor transportasi & logistik.

@@ -21,14 +21,16 @@ Untuk membantu Anda memilih perangkat yang paling sesuai, berikut perbandingan o
 ## 1. Fleksibilitas Layanan
 
 ### **Mesin Tombol**
+
 - Fungsionalitas terbatas hanya pada jumlah tombol yang tersedia.
-- Jika menambah layanan baru seperti *Check-in Kendaraan*, *Loket Timbang*, atau *Loading/Unloading*, mesin harus dibongkar dan ditambah modul tombol fisik.
+- Jika menambah layanan baru seperti _Check-in Kendaraan_, _Loket Timbang_, atau _Loading/Unloading_, mesin harus dibongkar dan ditambah modul tombol fisik.
 - Risiko salah pencet cukup tinggi ketika volume pengguna padat.
 
 ### **Kiosk Touchscreen**
+
 - Tampilan menu dapat diubah kapan saja sesuai kebutuhan operasional.
 - Cocok untuk area dengan banyak jenis layanan:  
-  *Pendaftaran Penumpang*, *Gate Kendaraan*, *Penerimaan Barang*, *Informasi*, dll.
+  _Pendaftaran Penumpang_, _Gate Kendaraan_, _Penerimaan Barang_, _Informasi_, dll.
 - Bisa menampilkan kategori layanan berbeda untuk jam operasional kendaraan logistik dan penumpang.
 
 **Untuk lingkungan transportasi yang dinamis, fleksibilitas layar sentuh jauh lebih unggul.**
@@ -36,9 +38,11 @@ Untuk membantu Anda memilih perangkat yang paling sesuai, berikut perbandingan o
 ## 2. Branding & Profesionalisme Layanan
 
 ### Meski sederhana, Mesin Tombol tetap berfungsi untuk kebutuhan dasar, namun…
+
 - Tidak bisa menampilkan informasi perjalanan, jadwal keberangkatan, promo layanan, atau informasi keselamatan.
 
 ### Kiosk Touchscreen:
+
 - Layar 17–24 inch bisa menampilkan video informasi terminal/pelabuhan ketika idle.
 - Menampilkan jadwal kapal, bus, atau nomor antrean kendaraan secara real-time.
 - Memberikan kesan modern dan meningkatkan kepercayaan penumpang maupun mitra logistik.
@@ -50,6 +54,7 @@ Untuk membantu Anda memilih perangkat yang paling sesuai, berikut perbandingan o
 Lingkungan transportasi dan logistik cenderung **lebih keras**, sering terjadi kontak fisik, debu, dan penggunaan intensif.
 
 Kiosk Touchscreen kami dibuat dengan standar **Industrial Grade**:
+
 - **Plat Besi 1.5mm** — tahan benturan, dorongan troli, dan aktivitas padat.
 - **Powder Coating** — tidak berkarat meskipun area sering terkena udara lembap (pelabuhan).
 - **Tempered Glass** — aman dari goresan benda tajam, kunci kendaraan, atau gesekan barang.
@@ -59,6 +64,7 @@ Mesin tombol umumnya tidak dirancang untuk kondisi ekstrem seperti pelabuhan, ar
 ## 4. Ekonomi & Biaya Jangka Panjang
 
 ### Mesin Tombol
+
 - Harga awal lebih murah.
 - Namun sering menimbulkan biaya tambahan saat:
   - menambah layanan,
@@ -66,6 +72,7 @@ Mesin tombol umumnya tidak dirancang untuk kondisi ekstrem seperti pelabuhan, ar
   - memperbarui tampilan.
 
 ### Kiosk Touchscreen
+
 - Investasi awal lebih tinggi, tetapi:
   - Fitur dapat ditambah tanpa mengganti perangkat,
   - Bisa digunakan untuk berbagai kebutuhan per hari,
