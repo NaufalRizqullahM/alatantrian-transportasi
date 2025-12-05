@@ -94,7 +94,7 @@ export const footerData = {
       title: 'Perusahaan',
       links: [
         { text: 'AlatAntrian.com', href: 'https://alatantrian.com' },
-        
+
         { text: 'Tentang Kami', href: getPermalink('/about') },
         { text: 'Kontak', href: getPermalink('/contact') },
       ],
