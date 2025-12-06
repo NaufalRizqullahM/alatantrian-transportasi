@@ -17,25 +17,25 @@ metadata:
 
 ## Antrian Tertib Tanpa Ribet
 
-**Mesin Antrian Sederhana** adalah pilihan paling efisien untuk instansi atau bisnis yang hanya memiliki satu titik layanan (_Single Counter_). Didesain khusus untuk menggantikan nomor antrian manual (kartu/kertas laminating) menjadi sistem digital yang lebih profesional.
+**Mesin Antrian Sederhana** adalah pilihan paling efisien untuk bisnis atau agen travel yang hanya memiliki satu titik layanan (_Single Counter_). Didesain khusus untuk menggantikan nomor antrian manual (kartu/kertas laminating) menjadi sistem digital yang lebih profesional.
 
 ### Keunggulan Utama
 
 - **Sangat Praktis:** Tidak membutuhkan komputer atau server yang rumit. Cukup colok listrik, alat siap digunakan.
-- **Printer Mini Otomatis:** Pengunjung menekan tombol, tiket nomor antrian langsung tercetak dari printer thermal mini yang terintegrasi.
-- **Hemat Ruang:** Ukurannya yang mungil memungkinkan alat ini diletakkan di meja resepsionis kecil atau ditempel di dinding tanpa memakan tempat.
+- **Printer Mini Otomatis:** Penumpang menekan tombol, tiket nomor antrian langsung tercetak dari printer thermal mini yang terintegrasi.
+- **Hemat Ruang:** Ukurannya yang mungil memungkinkan alat ini diletakkan di meja loket kecil atau ditempel di dinding tanpa memakan tempat.
 
 ### Cocok Untuk Siapa?
 
 Alat ini adalah solusi _Best Value_ untuk layanan dengan volume antrian sedang namun membutuhkan ketertiban, seperti:
 
-1.  **Klinik Pratama / Praktek Dokter:** Mengatur pasien urut masuk.
-2.  **Kantor Desa / Kelurahan:** Layanan administrasi warga satu pintu.
-3.  **Loket Pembayaran (PPOB):** Mencegah penyerobotan antrian pelanggan.
-4.  **Gerai Layanan Mandiri:** Stand makanan atau minuman _take-away_.
+1.  **Agen Travel & Shuttle:** Mengatur penumpang urut check-in.
+2.  **Sub Terminal / Pool Kecil:** Layanan penjualan tiket dan boarding.
+3.  **Loket Cargo / Logistik:** Mencegah penyerobotan antrian pelanggan pengiriman.
+4.  **Rental Kendaraan:** Stand layanan sewa mobil atau motor.
 
 ### Cara Kerja Simpel
 
-1.  Pengunjung datang dan menekan tombol pada mesin.
+1.  Penumpang datang dan menekan tombol pada mesin.
 2.  Struk nomor antrian tercetak otomatis.
 3.  Petugas memanggil nomor urut berikutnya (sistem mendukung operasional yang lebih tertib dan adil).

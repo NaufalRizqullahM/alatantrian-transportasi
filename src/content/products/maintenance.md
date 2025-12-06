@@ -1,7 +1,7 @@
 ---
 title: 'Maintenance & Support Prioritas'
 description: 'Layanan purna jual untuk menjamin sistem antrian Anda selalu online 24/7. Bebas khawatir kendala teknis.'
-image: '~/assets/images/hero-image.png'
+image: '~/assets/images/maintenance.jpg'
 category: 'Layanan Purna Jual'
 productType: 'service'
 icon: 'tabler:headset'
@@ -17,7 +17,7 @@ metadata:
 
 ## Jaminan Ketenangan Pikiran
 
-Pelayanan pasien tidak boleh berhenti gara-gara sistem _down_. Layanan Maintenance kami adalah asuransi operasional Anda.
+Pelayanan penumpang tidak boleh berhenti gara-gara sistem _down_. Layanan Maintenance kami adalah asuransi operasional Anda.
 
 ### Paket Dukungan
 
