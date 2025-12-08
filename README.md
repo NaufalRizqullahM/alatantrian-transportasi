@@ -52,20 +52,24 @@ Website ini berfungsi sebagai _lead generator_ dan _educational hub_ yang menduk
 Pastikan Anda sudah menginstal **Node.js** (versi 18+).
 
 1.  **Clone Repository**
+
 ```bash
     git clone https://github.com/username/alatantrian-transportasi.git
     cd alatantrian-transportasi
 ```
 
 2.  **Install Dependencies**
+
 ```bash
     npm install
 ```
 
 3.  **Jalankan Server Lokal**
+
 ```bash
     npm run dev
 ```
+
     Buka browser di `http://localhost:4321`.
 
 ---
@@ -89,6 +93,7 @@ Tidak perlu mengedit file kodingan untuk menambah artikel atau produk.
 ---
 
 ## 📂 Struktur Folder Penting
+
 ```text
 src/
 ├── assets/             # Gambar, Logo, Favicon
