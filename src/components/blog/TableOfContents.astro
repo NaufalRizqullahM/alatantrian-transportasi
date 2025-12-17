@@ -7,7 +7,7 @@ const { headings } = Astro.props;
   <nav class="toc-nav">
     <ul class="space-y-2 border-l-2 border-gray-100 dark:border-slate-800">
       {
-        headings.map((heading) => (
+        headings.map((heading: { depth: number; slug: string; text: string }) => (
           <li class={`toc-item depth-${heading.depth} pl-4`}>
             <a
               href={`#${heading.slug}`}
