@@ -13,6 +13,7 @@ author: AlatAntrian Transportasi
 metadata:
   title: Optimasi Transportasi & Logistik dengan Sistem Antrian Modern
   description: Panduan lengkap meningkatkan efisiensi operasional transportasi dan logistik dengan sistem antrian digital terintegrasi
+  draft: false
 ---
 
 Dalam industri transportasi dan logistik, waktu adalah aset paling krusial. Ketika arus penumpang, truk, kontainer, atau barang tertunda hanya beberapa menit, dampaknya bisa merembet ke jadwal keberangkatan, antrian bongkar muat, hingga kepuasan pengguna layanan.
@@ -85,4 +86,4 @@ Fitur unggulan kami meliputi:
 
 Dengan sistem yang terstandarisasi, instansi dapat meningkatkan kelancaran layanan hingga 40–60% dalam 1–2 bulan penggunaan.
 
-Jangan biarkan operasional Anda terhambat oleh antrian manual atau tidak terorganisir. Digitalisasi alur layanan adalah investasi penting untuk masa depan transportasi & logistik yang lebih efisien.
+Jangan biarkan operasional Anda terhambat oleh antrian manual atau tidak terorganisir. Digitalisasi alur layanan adalah investasi penting untuk masa depan transportasi & logistik yang lebih efisien. 

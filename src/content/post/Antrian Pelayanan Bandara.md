@@ -3,6 +3,7 @@ title: 'Antrian Pelayanan Bandara: Solusi Optimalisasi Layanan Penumpang'
 excerpt: 'Antrian Pelayanan Bandara dapat dioptimalkan melalui sistem digital terintegrasi untuk meningkatkan kecepatan layanan dan mengurangi penumpukan.'
 publishDate: 2025-12-09
 image: ~/assets/images/AntrianBandara.png
+draft: false
 ---
 
 # Antrian Pelayanan Bandara: Solusi Optimalisasi Layanan Penumpang

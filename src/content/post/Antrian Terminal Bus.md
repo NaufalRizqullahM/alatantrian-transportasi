@@ -3,6 +3,7 @@ title: 'Antrian Terminal Bus: Solusi Digital untuk Layanan Teratur'
 excerpt: 'Antrian Terminal Bus dapat dioptimalkan dengan sistem digital terintegrasi untuk menertibkan alur penumpang dan meningkatkan kualitas layanan publik.'
 publishDate: 2025-12-11
 image: ~/assets/images/terminalbus.jpg
+draft: false
 ---
 
 **Antrian Terminal Bus** adalah tantangan utama dalam pengelolaan transportasi darat dengan volume penumpang tinggi. Tanpa sistem yang terstruktur, antrean di loket tiket, ruang tunggu, hingga jalur keberangkatan berpotensi menimbulkan ketidaktertiban dan menurunkan kepercayaan masyarakat. Dengan menerapkan **Antrian Terminal Bus** berbasis digital, proses ticketing, pemanggilan penumpang, dan pengaturan gate dapat berjalan lebih rapi, terukur, dan efisien.
