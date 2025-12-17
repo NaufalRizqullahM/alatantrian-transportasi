@@ -86,4 +86,4 @@ Fitur unggulan kami meliputi:
 
 Dengan sistem yang terstandarisasi, instansi dapat meningkatkan kelancaran layanan hingga 40–60% dalam 1–2 bulan penggunaan.
 
-Jangan biarkan operasional Anda terhambat oleh antrian manual atau tidak terorganisir. Digitalisasi alur layanan adalah investasi penting untuk masa depan transportasi & logistik yang lebih efisien. 
+Jangan biarkan operasional Anda terhambat oleh antrian manual atau tidak terorganisir. Digitalisasi alur layanan adalah investasi penting untuk masa depan transportasi & logistik yang lebih efisien.

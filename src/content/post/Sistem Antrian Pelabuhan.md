@@ -1,6 +1,6 @@
 ---
-title: "Sistem Antrian Pelabuhan: Strategi Optimalisasi Arus Penumpang"
-excerpt: "Sistem Antrian Pelabuhan membantu menertibkan arus penumpang dan kendaraan, mempercepat proses boarding, serta meningkatkan efisiensi layanan terminal."
+title: 'Sistem Antrian Pelabuhan: Strategi Optimalisasi Arus Penumpang'
+excerpt: 'Sistem Antrian Pelabuhan membantu menertibkan arus penumpang dan kendaraan, mempercepat proses boarding, serta meningkatkan efisiensi layanan terminal.'
 publishDate: 2025-12-11
 image: ~/assets/images/antrianpelabuhan.jpg
 ---
@@ -11,18 +11,17 @@ Sebagai Manajer Operasional Pelabuhan atau Kepala Terminal Penumpang, Anda tentu
 
 ![Ilustrasi Display Digital Sistem Antrian Pelabuhan](~/assets/images/pelabuhan.jpg)
 
-
 ## Dampak Negatif Tanpa Sistem Antrian Pelabuhan Terintegrasi
 
 Masih banyak terminal pelabuhan yang mengatur antrean secara manual. Metode ini menimbulkan berbagai permasalahan serius, antara lain:
 
-* **Antrean Panjang dan Tidak Tertib**  
+- **Antrean Panjang dan Tidak Tertib**  
   Penumpang menumpuk di loket dan gate karena tidak ada pengaturan urutan yang jelas.
 
-* **Keterlambatan Boarding Kapal**  
+- **Keterlambatan Boarding Kapal**  
   Proses pemanggilan manual memperlambat arus naik penumpang dan kendaraan ke kapal.
 
-* **Sulit Monitoring Kinerja Layanan**  
+- **Sulit Monitoring Kinerja Layanan**  
   Tanpa data digital, waktu tunggu dan performa petugas tidak dapat dievaluasi secara objektif.
 
 Kondisi ini berdampak langsung pada citra pelabuhan sebagai fasilitas publik. Digitalisasi menjadi langkah strategis untuk meningkatkan pelayanan transportasi laut nasional.
@@ -37,16 +36,16 @@ Solusi dari **AlatAntrian Transportasi & Logistik** memberikan kontrol penuh mul
 
 ### Fitur Utama
 
-* **Ticketing Antrian Digital**  
+- **Ticketing Antrian Digital**  
   Penumpang mengambil nomor antrian secara otomatis tanpa harus berdesakan di loket.
 
-* **Display & Audio Pemanggilan**  
+- **Display & Audio Pemanggilan**  
   Informasi antrian ditampilkan jelas melalui layar dan sistem suara di area terminal.
 
-* **Jalur Antrian Prioritas**  
+- **Jalur Antrian Prioritas**  
   Mendukung layanan khusus bagi lansia, difabel, dan penumpang berkebutuhan khusus.
 
-* **Dashboard Monitoring Real-Time**  
+- **Dashboard Monitoring Real-Time**  
   Manajemen dapat memantau kondisi antrean, waktu tunggu, dan performa layanan secara langsung.
 
 Pelajari solusi lengkapnya melalui halaman resmi **Sistem Antrian Transportasi Digital** berikut:  
@@ -57,17 +56,20 @@ Pelajari solusi lengkapnya melalui halaman resmi **Sistem Antrian Transportasi D
 ## Transformasi Layanan Terminal Pelabuhan dengan Sistem Digital
 
 ### 1. Meningkatkan Ketertiban dan Kenyamanan
+
 Antrean tertata rapi sehingga penumpang merasa lebih aman dan nyaman selama menunggu.
 
 ### 2. Mempercepat Proses Boarding
+
 Pemanggilan otomatis mengurangi waktu tunggu dan meminimalkan keterlambatan kapal.
 
 ### 3. Monitoring Berbasis Data
+
 Data waktu tunggu dan volume penumpang membantu perencanaan operasional yang lebih akurat.
 
 ### 4. Mendukung Standar Pelayanan Publik
-Sistem digital selaras dengan kebijakan peningkatan layanan transportasi dari Kementerian Perhubungan Republik Indonesia (dephub.go.id).
 
+Sistem digital selaras dengan kebijakan peningkatan layanan transportasi dari Kementerian Perhubungan Republik Indonesia (dephub.go.id).
 
 ---
 
