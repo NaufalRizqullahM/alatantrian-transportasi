@@ -86,7 +86,7 @@ const { title, description } = Astro.props;
   </div>
 </div>
 
-<script define:vars={{ title, description }}>
+<script define:vars={{ title, description }} is:inline>
   document.addEventListener('astro:page-load', () => {
     // --- 1. LOGIKA SECURITY ---
     const container = document.getElementById('seo-widget-container');
